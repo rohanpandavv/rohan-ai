@@ -44,4 +44,4 @@ app.post('/', async(req,res) => {
     }
 });
 
-app.listen(5000, () => console.log('Server is running on http://localhost:5000'));
+app.listen(5000, () => console.log('Server is running on https://rohan-ai.onrender.com/'));
